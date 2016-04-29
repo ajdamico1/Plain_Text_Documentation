@@ -1,11 +1,13 @@
-# Stuff I know about arc flashes from .....:
-# link
-# and ......
-# link
+# Stuff I know about arc flashes from Mike Holt Enterprise's guide to NEC Arc Flash Standards:
+# https://www.mikeholt.com/mojonewsarchive/NEC-HTML/HTML/What-is-Arc-Flash~20040512.php
+# and the Workplace Safety Administration Council:
+# https://www.osha.gov/dte/grant_materials/fy07/sh-16615-07/arc_flash_handout.pdf
 
 prewriting
-1
-2
-3
-4
-5
+1.Arc flash is a phenomenon where a flashover of electric current leaves its intended path and travels through the air from one conductor to another, or to ground. 
+2.Arc flashes are often violent and when a human is in close proximity to the arc flash, serious injury and even death can occur. 
+3.Caused by dust, dropping tools, accidental touching, condensation, material failure. corrosion, faulty Installation 
+4.Severity determined by proximity of the worker to the hazard, temperature, time for circuit to break 
+5.Ways to prevent are to de-energize the circuit, use better work practices, use insulation, use guarding, use barricades, use ground fault circuit interrupters, use grounding. 
+6.Each piece of equipment operating at 50 volts or more and not put into a deenergized state must be evaluated for arc flash and shock protection. This evaluation will determine the actual boundaries (i.e. prohibited, limited, restricted etc) and will inform the employee of what PPE must be worn. Once the evaluation is complete an Arc Flash Hazard warning label must be affixed to the equipment and readily accessible to employees who may work on the energized equipment. 
+7.Qualified persons shall, at a minimum, be trained in and familiar with the following: The skills and techniques necessary to distinguish exposed live parts from other parts of electric equipment, the skills and techniques necessary to determine the nominal voltage of exposed live parts, and the clearance distances specified in 1910.333(c) and the corresponding voltages to which the qualified person will be exposed. 
