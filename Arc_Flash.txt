@@ -1,9 +1,13 @@
-Arc faults are a major safety hazard when working with high voltage electrical equipment. They cause serious burn injuries to people. That’s why many firms will label parts that can arc and why they are only handled by trained electricians.
+# Stuff I know about arc flashes from Mike Holt Enterprise's guide to NEC Arc Flash Standards:
+# https://www.mikeholt.com/mojonewsarchive/NEC-HTML/HTML/What-is-Arc-Flash~20040512.php
+# and the Workplace Safety Administration Council:
+# https://www.osha.gov/dte/grant_materials/fy07/sh-16615-07/arc_flash_handout.pdf
 
-Arc flashes are caused when dusts, tools, or when the material corrodes or faulty installation. They are flashovers of electric current that have left their intended path and arced offed into the air. They are dangerous to be around due to the high current being able to arc off into the nearby person. They are dangerous due to having a current too small to be protected by breakers.
-
-They can be prevented by practicing good safety habits. Wearing proper protective equipment. As outlined by the NFPA. De-energize the circuit. Provide proper instruction on how to handle equipment that could cause an arc flash. Skills and techniques to identify live parts of circuit, determine nominal voltage of live parts, clearance specified by design firm, and the voltage that they will be exposing themselves to.
-
-Arc flashes are calculated using the equations given by either IEEE or NFPA. Needed for the study are the expected minimum and maximum fault current as well as the expected minimum and maximum voltage. Many building design firms have measures in place for pointing out what parts can arc. Consulting firms can also be used when needed to double check the measurements. They can sometimes also provide training courses to help train electricians on how to handle materials that can arc.
-
-The currents through arc faults are too low to be protected by breakers. This makes arc faults a serious burn/electrocution hazard. Arc fault analyses are used to ensure safety of the electricians. After proper investigation, any part that is arc fault will have a clear label and the proper protective equipment will be available. NFPA, and IEEE standards are used as the basis for proper arc fault investigation.
+prewriting
+1.Arc flash is a phenomenon where a flashover of electric current leaves its intended path and travels through the air from one conductor to another, or to ground. 
+2.Arc flashes are often violent and when a human is in close proximity to the arc flash, serious injury and even death can occur. 
+3.Caused by dust, dropping tools, accidental touching, condensation, material failure. corrosion, faulty Installation 
+4.Severity determined by proximity of the worker to the hazard, temperature, time for circuit to break 
+5.Ways to prevent are to de-energize the circuit, use better work practices, use insulation, use guarding, use barricades, use ground fault circuit interrupters, use grounding. 
+6.Each piece of equipment operating at 50 volts or more and not put into a deenergized state must be evaluated for arc flash and shock protection. This evaluation will determine the actual boundaries (i.e. prohibited, limited, restricted etc) and will inform the employee of what PPE must be worn. Once the evaluation is complete an Arc Flash Hazard warning label must be affixed to the equipment and readily accessible to employees who may work on the energized equipment. 
+7.Qualified persons shall, at a minimum, be trained in and familiar with the following: The skills and techniques necessary to distinguish exposed live parts from other parts of electric equipment, the skills and techniques necessary to determine the nominal voltage of exposed live parts, and the clearance distances specified in 1910.333(c) and the corresponding voltages to which the qualified person will be exposed. 
